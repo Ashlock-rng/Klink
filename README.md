@@ -1,3 +1,4 @@
+
 # Klink
 
 Klink is an AI assistant focused on cars and technology.
@@ -12,17 +13,8 @@ This repository is in early development.
 - Useful answers about cars, engines, tech, and related topics
 - Expandable in the future with more features and links
 
-## Coming Soon
-- Full AI integration
-- Car & technology knowledge base
-- Links and tools related to vehicles and tech
-
 ## Setup
-(Coming soon)
 
-## License
-MIT (or choose your preferred license later)
-
----
-
-Created by Ashlock-rng
+### 1. Install Dependencies
+```bash
+npm install
