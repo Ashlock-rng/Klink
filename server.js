@@ -124,7 +124,7 @@ app.post("/api/memory/clear", requireApiKey, (req, res) => {
 });
 
 // ===== MAIN CHAT (with image support) =====
-app.post("/api/chat", requireApiKey, async (req, res) => {
+app.post("/api/chat", async (req, res) => {
   try {
     const { message, image } = req.body;
 
